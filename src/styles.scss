@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Heebo';
+    background-color:var(--light);
+}
+:root {
+    --light: #EFFDF5;
+    --green: #00B98E;
+    --light-green:#20c997;
+    --gray:#666565;
+    --light-red: #FF6922;
+    --dark-blue: #0E2E50;
+    --white: #ffffff;
+  }
